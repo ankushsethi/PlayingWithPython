@@ -2,12 +2,12 @@
 ## Modify the variables so that all of the statements evaluate to True. ##
 ##########################################################################
 
-var1 =
-var6 =
-var2 =
-var3 =
-var4 =
-var5 =
+var1 =1
+var6 =1.1
+var2 ="qaaan"
+var3 = myList = ["Ankush" , "Sethi" , "PwC" ,[1,2,3,4] , 1]
+var4 =("Ankush", "Sethi", "Hello, we are playing with Python!")
+var5 ={"happy": 7, "egg":"salad" , "tuna":"fish"}
 
 ############################################
 ## Don't edit anything below this comment ##
